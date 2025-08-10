@@ -49,17 +49,6 @@ streamlit run dashboard.py
 - Adicione imagens dos gráficos gerados.
 
 ```
-## 📈 Principais visualizações
-
-### Distribuição de salários
-![Gráfico de distribuição](imagens/distribuicao_salarios.png)
-
-### Salário médio por senioridade
-![Gráfico de barras](imagens/salario_senioridade.png)
-
-### Salário médio por país
-![Mapa interativo](imagens/mapa_salario_pais.png)
-
 ## 📊 Insights encontrados
 - Profissionais de nível **Executivo** têm a maior média salarial globalmente.
 - Os EUA lideram como o país com maior média salarial para Cientistas de Dados.
